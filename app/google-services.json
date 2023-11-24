@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "464081288291",
+    "project_id": "project-8907282412538366981",
+    "storage_bucket": "project-8907282412538366981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464081288291:android:03a611c5a6911b002b0c56",
+        "android_client_info": {
+          "package_name": "com.example.shortchecker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8xDOutADSbrgW2ABkC9vEQN2fn-I1X3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464081288291:android:22af03c9cbaac9422b0c56",
+        "android_client_info": {
+          "package_name": "com.hardcoreamature.a33_33_34"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8xDOutADSbrgW2ABkC9vEQN2fn-I1X3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

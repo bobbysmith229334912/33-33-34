@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">33-33-34</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_email">Enter email</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="_33_33_34_budget">33-33-34 Budget</string>
+    <string name="way_to_get_into_tech">Way to Get into Tech</string>
+
+    <!-- Updated strings -->
+    <string name="already_have_an_account_log_in">Already have an account? Log in</string>
+    <string name="need_to_register">Need an account? Register here</string>
+    <string name="login">Login</string>
+    <string name="already_have_account">Already have an account</string>
+    <string name="need_account">Need an account</string>
+    <string name="savings">Savings</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="submit">Submit</string>
+    <string name="entertainment_budget">Entertainment Budget</string>
+    <string name="transportation_budget">Transportation Budget</string>
+    <string name="food_budget">Food Budget</string>
+    <string name="housing_budget">Housing Budget</string>
+    <string name="housing_Budget" />
+    <string name="editable_price">Editable Price</string>
+    <string name="holiday_budget">Holiday Budget</string>
+    <string name="birthday_budget">Birthday Budget</string>
+    <string name="my_dream_life">My Dream Life</string>
+    <string name="enter_Custom_Price" />
+    <string name="select_string_price_range">Select @string/Price_Range</string>
+    <string name="select_category">Select Category</string>
+    <string name="dream_life_budget">Dream Life Budget</string>
+    <string name="enter_custom_price">Enter Custom Price</string>
+    <string name="input_for_entering_a_custom_price">Input for entering a custom price</string>
+    <string name="select_price_range" />
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewTitle" type="id" />
+    <item name="textInputLayoutEmail" type="id" />
+    <item name="editTextEmail" type="id" />
+    <item name="textInputLayoutPassword" type="id" />
+    <item name="editTextPassword" type="id" />
+    <item name="buttonAuth" type="id" />
+    <item name="textViewToggle" type="id" />
+    <item name="progressBar" type="id" />
+</resources>
